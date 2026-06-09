@@ -8,9 +8,3 @@ feature3
 
 
 
-
-
-f1
-
-
-eddy
