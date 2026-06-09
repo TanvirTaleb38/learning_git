@@ -1,8 +1,19 @@
 main1
-<<<<<<< HEAD
 feature1
 feature2
 feature3
-=======
-feature1
->>>>>>> fee4359 (feature1 added)
+
+
+
+
+
+
+
+
+f1
+
+
+eddy
+
+
+hasnat added
